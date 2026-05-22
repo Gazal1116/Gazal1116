@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Kashvi
+# Hi 👋, I'm Gazal
 
 ### Computer Science Student
 
