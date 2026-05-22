@@ -64,15 +64,15 @@ Curious Computer Science student who enjoys building things and understanding ho
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Gazal1116">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/gazal-singla-361a98324/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE/">
+<a href="https://leetcode.com/u/gazalSingla/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
