@@ -46,15 +46,11 @@ Curious Computer Science student who enjoys building things and understanding ho
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gazal1116&theme=radical&border_radius=10" />
+</p>
 
 </div>
 
