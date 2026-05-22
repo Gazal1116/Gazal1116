@@ -82,10 +82,9 @@ Curious Computer Science student who enjoys building things and understanding ho
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gazal1116/Gazal1116/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gazal1116/Gazal1116/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
