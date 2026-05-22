@@ -4,7 +4,7 @@
 <p align="center">
   <img src="kling_20260523__Animated_f_138_0-ezgif.com-video-to-gif-converter.gif" width="900"/>
 </p>
-### Computer Science Student
+### CS student exploring the space between creating, debugging, and learning.
 
 <img src="https://i.pinimg.com/originals/8e/16/8d/8e168d3c1f5a3d0f9d6f6a0e4f7c6f2.gif" width="700"/>
 
