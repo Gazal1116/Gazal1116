@@ -1,7 +1,9 @@
 <div align="center">
 
 # Hi 👋, I'm Gazal
-
+<p align="center">
+  <img src="video.gif" width="900"/>
+</p>
 ### Computer Science Student
 
 <img src="https://i.pinimg.com/originals/8e/16/8d/8e168d3c1f5a3d0f9d6f6a0e4f7c6f2.gif" width="700"/>
