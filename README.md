@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Gazal
 <p align="center">
-  <img src="video.gif" width="900"/>
+  <img src="kling_20260523__Animated_f_138_0-ezgif.com-video-to-gif-converter.gif" width="900"/>
 </p>
 ### Computer Science Student
 
